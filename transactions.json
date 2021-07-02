@@ -1,0 +1,39 @@
+
+    [
+        {
+            "id":               1,
+            "codTransaccion":   "ASD12V",
+            "moneda":           "ARS",
+            "monto":            12.64,
+            "emisor":           1,
+            "receptor":         2,
+            "fecha":            "2006-01-02T15:04:05"
+        },
+        {
+            "id":               2,
+            "codTransaccion":   "QWE123",
+            "moneda":           "USD",
+            "monto":            1.25,
+            "emisor":           4,
+            "receptor":         8,
+            "fecha":            "2010-03-28T10:04:05"
+        },
+        {
+            "id":               3,
+            "codTransaccion":   "ZXC123",
+            "moneda":           "ARS",
+            "monto":            1412.64,
+            "emisor":           9,
+            "receptor":         8,
+            "fecha":            "2020-11-02T15:04:05"
+        },
+        {
+            "id":               4,
+            "codTransaccion":   "ZAQ123",
+            "moneda":           "ARS",
+            "monto":            1022.64,
+            "emisor":           1,
+            "receptor":         2,
+            "fecha":            "2006-01-02T15:04:05"
+        }
+    ]
